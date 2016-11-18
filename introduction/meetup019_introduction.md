@@ -208,6 +208,26 @@ http://www.cs.ox.ac.uk/news/1217-full.html
 
 ---
 
+# KOZA Machine Learning Bootcamp
+
+2016/12/10 (SAT) 9:00-18:00
+2016/12/11 (SUN) 9:00-18:00
+
+http://kozaml.com/wp01/
+
+---
+
+# Deep Learing Hands-on @ OIST
+
+2016/11/30 (WED)
+
+- Let me know if you are interested in this hands-on session.
+- This is NOT a deep learning tutorial.
+- Basic knowledge of deep learning is assumed. 
+
+
+---
+
 <font size=5>
 
 # PyData.Okinawa
