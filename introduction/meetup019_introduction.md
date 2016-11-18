@@ -143,8 +143,6 @@ http://free-photo.net/archive/entry5175.html
 
 # Google's Neural Machine Translation
 
-
-
 <font size=2>
 
 2016/09/27 - [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
@@ -178,6 +176,19 @@ https://research.googleblog.com/2016/10/supercharging-style-transfer.html
 ![](./figure/lipnet.png)
 
 http://www.cs.ox.ac.uk/news/1217-full.html
+
+---
+
+# Google's AI Experiments
+
+- 2016/11/15 - [AI Experiments](https://aiexperiments.withgoogle.com/)
+- 2016/11/15 - [Google’s AI Experiments help you understand neural networks by playing with them (TechCrunch)](https://techcrunch.com/2016/11/15/googles-ai-experiments-help-you-understand-neural-networks-by-playing-with-them/)
+
+<center>
+
+![](./figure/aiexperiments.png)
+
+</center>
 
 ---
 
