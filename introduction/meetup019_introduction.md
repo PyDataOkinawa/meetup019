@@ -141,21 +141,31 @@ http://free-photo.net/archive/entry5175.html
 
 ---
 
-# Neural Network for Machine Translation
+# Google's Neural Machine Translation
 
-2016/09/27
 
-[A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
 
-2016/11/12
+<font size=2>
 
-[待ってた！ついにGoogle翻訳がニューラルネット機械翻訳を日本語版にも適用。異常に上がった翻訳性能は感動モノ](https://bita.jp/dml/gtransrate_upgrade)
+2016/09/27 - [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
+
+2016/11/12 - [待ってた！ついにGoogle翻訳がニューラルネット機械翻訳を日本語版にも適用。異常に上がった翻訳性能は感動モノ](https://bita.jp/dml/gtransrate_upgrade)
+
+2016/11/16 - [Google 翻訳が進化しました。(Google Japan Blog) ](https://japan.googleblog.com/2016/11/google.html)
+
+</font>
+
+![](./figure/NMT.png)
 
 ---
 
 # Supercharging Style Transfer
 
 2016/10/26
+
+<center>
+
+![](./figure/style_transfer.png)
 
 https://research.googleblog.com/2016/10/supercharging-style-transfer.html
 
@@ -165,8 +175,17 @@ https://research.googleblog.com/2016/10/supercharging-style-transfer.html
 
 2016/11/09
 
+![](./figure/lipnet.png)
+
 http://www.cs.ox.ac.uk/news/1217-full.html
 
+---
+
+# Reinforcement learning with unsupervised auxiliary tasks
+
+[DeepMind's official blog post](https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/) (2016/11/17)
+
+![](./figure/unreal01.png)
 
 ---
 
@@ -175,8 +194,6 @@ http://www.cs.ox.ac.uk/news/1217-full.html
 ---
 
 ![](./figure/russ02.png)
-
-
 
 ---
 

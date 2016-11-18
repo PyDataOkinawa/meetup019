@@ -8,7 +8,7 @@
 - pygal ([example](http://www.pygal.org/en/latest/documentation/types/dot.html))
 - Bokeh ([example1](https://demo.bokehplots.com/apps/sliders), [example2](https://demo.bokehplots.com/apps/crossfilter))
 - HoloViews ([example](http://examples.holoviews.org/Earthquake_Visualization.html))
-- Plotly ([example]())
+- Plotly ([example](https://plot.ly/python/))
 
 ---
 
